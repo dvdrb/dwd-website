@@ -11,7 +11,6 @@
     "serve:ssr:dwd-website": "node dist/dwd-website/server/server.mjs"
   },
   "devDependencies": {
-    "@netlify/angular-runtime": "^2.3.1",
     "@netlify/plugin-angular-universal": "^1.0.1",
     "@types/express": "^4.17.17"
   },
