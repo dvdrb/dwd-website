@@ -2,8 +2,9 @@
   "routes": {
     "/": {},
     "/about-us": {},
-    "/cookie-policy": {},
+    "/cookies": {},
     "/faqs": {},
-    "/home": {}
+    "/home": {},
+    "/terms": {}
   }
 }
