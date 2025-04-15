@@ -1,5 +1,4 @@
 /* You can add global styles to this file, and also import other style files */
-@import "material-icons/iconfont/material-icons.css";
 html,
 body {
   height: 100%;
@@ -31,4 +30,13 @@ section[id] {
   width: 300px !important;
   border-radius: 4px !important;
   background-color: #1a1a1a !important;
+}
+
+html,
+body {
+  height: 100%;
+}
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
 }
